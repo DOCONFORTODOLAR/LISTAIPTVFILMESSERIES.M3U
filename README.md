@@ -1,6 +1,6 @@
 # LISTAIPTVFILMESSERIES.M3U
 LISTA TESTE DE FILMES E SERIES
-r S01E05
+#EXTM3U
 https://www.googleapis.com/drive/v3/files/1qsmtVMhjGXYVXZW-F9ItFmtrndlb33eu?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L1mjL1I.jpg",Condor S01E06
 https://www.googleapis.com/drive/v3/files/15cm0RmltlPh-mMzmSf4m4MxlPx8pVS7l?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
